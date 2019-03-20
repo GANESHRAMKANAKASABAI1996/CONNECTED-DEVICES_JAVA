@@ -166,7 +166,7 @@ public class ActuatorData {
 	}
 
 	/**
-	 * function to get the data of the ActuatorData's state
+	 * Method to get the data of the ActuatorData's state
 	 * 
 	 * @return: 'stateData',String
 	 */
@@ -175,7 +175,7 @@ public class ActuatorData {
 	}
 
 	/**
-	 * function to set the data of the ActuatorData's state
+	 * Method to set the data of the ActuatorData's state
 	 * 
 	 * @param stateData: String data
 	 */
@@ -184,7 +184,7 @@ public class ActuatorData {
 	}
 
 	/**
-	 * function to get the ActuatorData value
+	 * Method to get the ActuatorData value
 	 * 
 	 * @return: 'val', float
 	 */
@@ -193,7 +193,7 @@ public class ActuatorData {
 	}
 
 	/**
-	 * function to set the ActuatorData value
+	 * Method to set the ActuatorData value
 	 * 
 	 * @param val: float
 	 */
@@ -202,7 +202,7 @@ public class ActuatorData {
 	}
 
 	/**
-	 * function to update the ActuatorData
+	 * Method to update the ActuatorData
 	 * 
 	 * @param data: ActuatorData
 	 */

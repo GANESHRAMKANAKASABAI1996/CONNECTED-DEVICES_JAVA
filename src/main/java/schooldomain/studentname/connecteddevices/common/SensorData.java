@@ -97,8 +97,8 @@ public class SensorData {
 	 * This setter method is used to store the current value
 	 * @param name indicates the current value
 	 */
-	public void setCurVal(Double curVal) {
-		this.curVal = curVal;
+	public void setCurVal(Double f) {
+		this.curVal = f;
 	}
 	
 	/**
